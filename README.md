@@ -21,7 +21,7 @@ This project involves extracting, analyzing, and visualizing pizza sales data fr
    - Created visualizations using Matplotlib and Seaborn, including bar plots, histograms, and line charts.
    - Created a dashboard in Power BI to present the findings.
 
-## Tools and Technologies
+## :gear: Tools and Technologies
 - **Languages**: Python, SQL
 - **Frameworks**: TensorFlow, Scikit-Learn
 - **Tools**: Jupyter Notebook, VS Code, PostgreSQL, Power BI, Git, Matplotlib, Seaborn
