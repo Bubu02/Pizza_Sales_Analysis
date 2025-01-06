@@ -23,7 +23,6 @@ This project involves extracting, analyzing, and visualizing pizza sales data fr
 
 ## :gear: Tools and Technologies
 - **Languages**: Python, SQL
-- **Frameworks**: TensorFlow, Scikit-Learn
 - **Tools**: Jupyter Notebook, VS Code, PostgreSQL, Power BI, Git, Matplotlib, Seaborn
 
 ## :man_shrugging: Results
