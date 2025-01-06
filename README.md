@@ -1,7 +1,7 @@
 # Pizza Sales Analysis
 
 ## Dashboard
-![Power BI Dashboard](path/to/your/dashboard/image.png)
+![Power BI Dashboard](Pizza_sales_analysis.jpg)
 
 ## Overview
 This project involves extracting, analyzing, and visualizing pizza sales data from a PostgreSQL database to gain insights into sales trends and patterns.
