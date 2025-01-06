@@ -1,6 +1,5 @@
 # :pizza: Pizza Sales Analysis
 
-## :chart_with_upwards_trend: Dashboard
 ![Power BI Dashboard](Pizza_sales_analysis.jpg)
 
 ## :seedling: Overview
